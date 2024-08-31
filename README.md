@@ -1,4 +1,4 @@
-# Vietnamese-News-Dataset
+# Vietnamese News Dataset
 
 Vietnamese News Dataset is a dataset of real and fake news articles in the Vietnamese language, compiled in 2024. The news articles were gathered from Facebook posts and several Vietnamese news websites. The classification of the news as real or fake was based on the information available at the time of publication or by comparing the content with factual knowledge.
 
