@@ -4,7 +4,7 @@
 
 - The news articles were gathered from Facebook posts and several Vietnamese news websites. The classification of the news as real or fake was based on the information available at the time of publication or by comparing the content with factual knowledge. Real news is labeled as 0, while fake news is labeled as 1.
 
-- If you would like to access the source code or have any questions, please contact us via email at huynhanhtuan02.tv@gmail.com.
+- If you would like to access the source code or have any questions, please contact us via email at huynhanhtuan02.tv@gmail.com
 
 # Bộ dữ liệu tin tức Tiếng Việt
 - Vietnamese News Dataset là bộ dataset về các tin tức thật giả bằng ngôn ngữ tiếng Việt được tập hợp trong năm 2024, bộ dataset được thu thập cho mục đích nghiên cứu đề tài "Sử dụng các mô hình Transformers để phát hiện các tin giả tiếng Việt trên mạng xã hội", do các tác giả Phuoc Tran và Anh-Tuan Huynh thực hiện.
