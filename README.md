@@ -6,9 +6,13 @@
 
 - If you would like to access the source code or have any questions, please contact us via email at huynhanhtuan02.tv@gmail.com
 
+- The new dataset is updated here: https://github.com/huynhtuan0106/Vietnamese-News-Dataset-Version2
+
 # Bộ dữ liệu tin tức Tiếng Việt
 - Vietnamese News Dataset là bộ dataset về các tin tức thật giả bằng ngôn ngữ tiếng Việt được tập hợp trong năm 2024, bộ dataset được thu thập cho mục đích nghiên cứu đề tài "Sử dụng các mô hình Transformers để phát hiện các tin giả tiếng Việt trên mạng xã hội", do các tác giả Phuoc Tran và Anh-Tuan Huynh thực hiện.
 
 - Các tin tức được thu thập từ các bài viết trên facebook và một số trang báo của Việt Nam. Các tin tức được phân loại thật và giả dựa trên thông tin tại thời điểm được đăng hoặc so sánh với các kiến thức thực tế. Các tin tức thật được gắn nhãn là 0, và các tin tức giả được gắn nhãn là 1.
 
 - Nếu bạn muốn lấy source code hoặc có bất kỳ câu hỏi nào liên quan, vui lòng liên hệ với chúng tôi qua email: huynhanhtuan02.tv@gmail.com
+
+- Bộ dữ liệu mới được cập nhật tại đây: https://github.com/huynhtuan0106/Vietnamese-News-Dataset-Version2
